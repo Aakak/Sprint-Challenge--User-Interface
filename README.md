@@ -104,3 +104,16 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Introduce CSS animations to your site.
 * [ ] Build a contact page and create a form with several inputs of your choosing
 * [ ] Add responsive breakpoints to your code by using media queries
+
+## Self-Study Questions
+
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Name two big differences between display: block; and display: inline;.
+
+What are the 4 areas of the box model?
+
+While using flexbox, what axis does the following property work on: align-items: center?
+
+Explain why git is valuable to a team of developers.
+
