@@ -109,11 +109,27 @@ After finishing your required elements, you can push your work further. These go
 
 If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+- Semantic markup is HTML that introduces meaning to the web page. And easy to read browsers and developers.
+
+
 Name two big differences between display: block; and display: inline;.
+
+- Inline element flows along with text content without and doesn't expand outside that element and Block element naturally expand to fit it's content.
+
+
 
 What are the 4 areas of the box model?
 
+- Margin, Padding, Border, Content 
+
+
+
 While using flexbox, what axis does the following property work on: align-items: center?
+
+- Cross Axis
+
 
 Explain why git is valuable to a team of developers.
 
+- Developers can work in the same project without effecting the Master branch.
+It safes all versions of your code. 
